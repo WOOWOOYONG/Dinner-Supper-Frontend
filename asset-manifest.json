@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dinner-Supper-Frontend/static/css/main.5b46f5fb.css",
-    "main.js": "/Dinner-Supper-Frontend/static/js/main.63737acd.js",
+    "main.css": "/Dinner-Supper-Frontend/static/css/main.1b08618e.css",
+    "main.js": "/Dinner-Supper-Frontend/static/js/main.e9c9e1c2.js",
     "index.html": "/Dinner-Supper-Frontend/index.html",
-    "main.5b46f5fb.css.map": "/Dinner-Supper-Frontend/static/css/main.5b46f5fb.css.map",
-    "main.63737acd.js.map": "/Dinner-Supper-Frontend/static/js/main.63737acd.js.map"
+    "main.1b08618e.css.map": "/Dinner-Supper-Frontend/static/css/main.1b08618e.css.map",
+    "main.e9c9e1c2.js.map": "/Dinner-Supper-Frontend/static/js/main.e9c9e1c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b46f5fb.css",
-    "static/js/main.63737acd.js"
+    "static/css/main.1b08618e.css",
+    "static/js/main.e9c9e1c2.js"
   ]
 }
