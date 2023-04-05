@@ -103,14 +103,21 @@ input {
   border-radius: 4px;
   box-sizing: border-box;
 }
+
+.submit-btn {
+  text-align: center;
+}
+
 form button {
   background: var(--primary);
   border: 0;
   color: #fff;
+  margin-top: 10px;
   padding: 10px;
   font-family: 'Poppins';
   border-radius: 4px;
   cursor: pointer;
+  width: 50%;
 }
 div.error {
   padding: 10px;
@@ -122,4 +129,10 @@ div.error {
 }
 input.error {
   border: 1px solid var(--error);
+}
+
+.loader {
+  max-width: 100%;
+  margin: 0 auto;
+  padding-top: 50px;
 }

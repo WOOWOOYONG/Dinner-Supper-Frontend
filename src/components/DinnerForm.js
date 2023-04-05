@@ -69,7 +69,10 @@ const DinnerForm = () => {
         value={type}
         className={emptyFields.includes('type') ? 'error' : ''}
       />
-      <button>送出</button>
+      <div className="submit-btn">
+        <button>送出</button>
+      </div>
+
       {error && <div className="error">{error}</div>}
     </form>
   );
